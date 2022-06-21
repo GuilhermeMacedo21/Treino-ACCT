@@ -7,6 +7,7 @@
 * JavaScript
 
 ### Git
+
 Durante o desenvolvimento de um projeto utilizando o versionamento do git, é necessário termos o controle da divisão de trabalho, onde as branchs são necessárias para dividir o que cada desenvolvedor está fazendo. 
 
 Git branch -a  Verifica todas as branchs  
@@ -35,6 +36,7 @@ Se tudo ocorreu certo, basta fazer o merge na master do projeto: git checkout ma
 
 
 ### Git Flow
+
 Proposta de fluxo que auxilio o desenvolvimento de software.
 
 Branchs:
@@ -93,6 +95,7 @@ Git flow hotfix finish
  
  
 ### Markdown
+
 De forma simplifica markdown seria apenas um outro formato de texto definido em programação como .md, muito utilizado em arquivos readme e para escrever mensagens de forma simplificada.
 
 
@@ -100,9 +103,11 @@ De forma simplifica markdown seria apenas um outro formato de texto definido em 
 
 
 ### CSS
+
 Seria a folha de estilo de uma página HTML, sendo assim serve como toda a formatação que será realizada em imagens, textos, títulos, entre outras questões dentro de uma página.
 
 #### Seletores no CSS
+
 Seletor universal: *
 
 Para selecionar um elemento por ID no CSS, basta utilizar: #
@@ -110,6 +115,7 @@ Para selecionar um elemento por ID no CSS, basta utilizar: #
 Para selecionar elementos por classe no CSS, basta utilizar: .
 
 #### Cores
+
 Adicionar cor com transparência: rgba(255, 99, 71, 0.5)
 
 ### BootStrap

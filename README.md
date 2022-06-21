@@ -7,8 +7,7 @@
 * JavaScript
 
 ### Git
-
-
+---
 
 Durante o desenvolvimento de um projeto utilizando o versionamento do git, é necessário termos o controle da divisão de trabalho, onde as branchs são necessárias para dividir o que cada desenvolvedor está fazendo. 
 
@@ -38,8 +37,7 @@ Se tudo ocorreu certo, basta fazer o merge na master do projeto: git checkout ma
 
 
 ### Git Flow
-
-
+---
 
 Proposta de fluxo que auxilio o desenvolvimento de software.
 

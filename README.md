@@ -6,6 +6,7 @@
 * CSS
 * JavaScript
 
+---
 ### Git
 ---
 
@@ -35,7 +36,7 @@ Depois disso basta verificar e enviar ao repositório remoto: git show v1.0.1 &&
 Se tudo ocorreu certo, basta fazer o merge na master do projeto: git checkout master && git merge release/v1.0.1
 
 
-
+---
 ### Git Flow
 ---
 
@@ -93,22 +94,19 @@ Git flow hotfix publish
 
 Git flow hotfix finish
  
- 
+--- 
 ### Markdown
-
-
+---
 
 De forma simplifica markdown seria apenas um outro formato de texto definido em programação como .md, muito utilizado em arquivos readme e para escrever mensagens de forma simplificada.
 
+---
 ### CSS
-
-
+---
 
 Seria a folha de estilo de uma página HTML, sendo assim serve como toda a formatação que será realizada em imagens, textos, títulos, entre outras questões dentro de uma página.
 
 #### Seletores no CSS
-
-
 
 Seletor universal: *
 
@@ -118,24 +116,26 @@ Para selecionar elementos por classe no CSS, basta utilizar: .
 
 #### Cores
 
-
-
 Adicionar cor com transparência: rgba(255, 99, 71, 0.5)
 
+---
 ### BootStrap
-
-
+---
 
 Pode ser definido como um framework(Conjunto de códigos) de css que pode ser utilizado para facilitar a utilização no HTML de classes e para estilização, assim torna mais fácil o processo de definir o estilo do site, utilizando os modelos já definidos.
 
+---
 ### Tachyons
-
-
+---
 
 A melhor definição seria um facilitador no momento de escrever os códigos em CSS.
 
+---
 ### Saas
-
-
+---
 
 Serve como um pré formatador de CSS, definindo novas características a folha de estilo e permitindo a utilização de ferramentas que não seriam possíveis como variáveis, importações e herança, além disso é importante lembrar que o navegador irá ler apenas o código em CSS, então após utilizar o Saas é necessário realizar o processo de conversão para funcionar corretamente no site.
+
+---
+### CSS GRID
+---

@@ -139,3 +139,13 @@ Serve como um pré formatador de CSS, definindo novas características a folha d
 ---
 ### CSS GRID
 ---
+
+No caso GRID seria uma forma de dividir a página em colunas e linhas(Como uma espécie de tabela), assim permitindo ao desenvolvedor manusear exatamente onde aquele elemento estará presente na página sem muitos problemas.
+
+Comandos:
+
+- Diplay: grid;
+
+- grid-template-columns/grid-template-rows/grid-template.
+
+- grid-column/grid-row/grid-area.

@@ -7,7 +7,7 @@ body{
     align-items: center;
 }
 .container{
-    border: 2px solid green;
+    border: 2px solid ;
     background-color: rgba(150, 150, 150, 0.79);
     display: grid;
     width: 300px;

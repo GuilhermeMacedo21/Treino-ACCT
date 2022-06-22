@@ -1,19 +1,19 @@
-var exib = document.getElementById("exib")
+var result = document.getElementById("result")
 var isExclude = false;
 
-function digitar(dig){
+function insert(digit){
     if(isExclude){
         reset();
         isExclude= false;
     }
-    exib.innerHTML += dig;
+    result.innerHTML += digit;
 }
 function reset(){
-    exib.innerHTML = "";
+    result.innerHTML = "";
 }
-function calc(){
+function calculate(){
     isExclude = true;
-    let expression = document.getElementById("exib").innerHTML;
+    let expression = result.innerHTML;
     console.log(expression);
-    exib.innerHTML = eval(expression);
+    result.innerHTML = eval(expression);
 }

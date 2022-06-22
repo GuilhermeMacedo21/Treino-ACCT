@@ -10,24 +10,24 @@
 <body>
     <h2>Calculadora</h2>
     <section class="container">
-        <div id="exib"></div>
-        <button class="operator" onclick="digitar('/')">/</button>
-        <button class="operator" onclick="digitar('*')">*</button>
-        <button class="operator" onclick="digitar('-')">-</button>
-        <button class="operator" onclick="digitar('+')">+</button>
-        <button class="num" onclick="digitar('9')">9</button>
-        <button class="num" onclick="digitar('8')">8</button>
-        <button class="num" onclick="digitar('7')">7</button>
-        <button class="num" onclick="digitar('6')">6</button>
-        <button class="num" onclick="digitar('5')">5</button>
-        <button class="num" onclick="digitar('4')">4</button>
-        <button class="num" onclick="digitar('3')">3</button>
-        <button class="num" onclick="digitar('2')">2</button> 
-        <button class="num" onclick="digitar('1')">1</button>   
-        <button class="num num0" onclick="digitar('0')">0</button> 
-        <button class="num" onclick="digitar('.')">.</button>          
+        <div id="result"></div>
+        <button class="operator" onclick="insert('/')">/</button>
+        <button class="operator" onclick="insert('*')">*</button>
+        <button class="operator" onclick="insert('-')">-</button>
+        <button class="operator" onclick="insert('+')">+</button>
+        <button class="number" onclick="insert('9')">9</button>
+        <button class="number" onclick="insert('8')">8</button>
+        <button class="number" onclick="insert('7')">7</button>
+        <button class="number" onclick="insert('6')">6</button>
+        <button class="number" onclick="insert('5')">5</button>
+        <button class="number" onclick="insert('4')">4</button>
+        <button class="number" onclick="insert('3')">3</button>
+        <button class="number" onclick="insert('2')">2</button> 
+        <button class="number" onclick="insert('1')">1</button>   
+        <button class="number num0" onclick="insert('0')">0</button> 
+        <button class="number" onclick="insert('.')">.</button>          
         <button class="operator erase" onclick="reset()">C</button>
-        <button class="calc" onclick="calc()">=</button>
+        <button class="calculate" onclick="calculate()">=</button>
     </section>
     <script src="script.js"></script>
 </body>

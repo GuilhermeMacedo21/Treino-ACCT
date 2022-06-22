@@ -149,3 +149,8 @@ Comandos:
 - grid-template-columns/grid-template-rows/grid-template.
 
 - grid-column/grid-row/grid-area.
+
+---
+### CSS FlexBox
+---
+Organizador de conteúdo na página de forma horizontal ou vertical, assim facilita ao desenvolvedor adicionar o local onde exatamente cada elemento ficará na página, a sua diferença com o GRID é que o grid controla de forma bidimensional, já o flexbox seria apenas na horizontal ou vertical.

@@ -28,3 +28,45 @@ body{
     grid-column-end: 5;
     overflow-x: hidden;
 }
+.erase{
+    grid-column: 4;
+    grid-row-start: 3; 
+    grid-row-end: 5; 
+}
+.erase:hover{
+    cursor: pointer;
+}
+.calc{
+    background-color: rgba(216, 75, 24, 0.767);
+    margin: 3px;
+    grid-column: 4;
+    grid-row-start: 5;
+    grid-row-end: 7;
+    color:white;
+}
+.calc:hover{
+    background-color: rgba(255, 68, 0, 0.829);
+    cursor: pointer;
+}
+.num0{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+.num{
+    margin: 3px;
+    background-color: black;
+    color: white;
+}
+.num:hover{
+    background-color: rgba(87, 87, 87, 0.781);
+    cursor: pointer;
+}
+.operator{
+    margin: 3px;
+    background-color: rgba(28, 28, 28, 0.689);
+    color:white;
+}
+.operator:hover{
+    background-color: rgba(91, 91, 91, 0.658);
+    cursor: pointer;
+}

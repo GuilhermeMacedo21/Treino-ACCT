@@ -164,10 +164,12 @@ Organizador de conteúdo na página de forma horizontal ou vertical, assim facil
 ---
 ### Scrum
 ---
+Framework ágil para o desenvolvimento, adequado em projetos que mudam constantemente, é baseado na progressão através de sprints que duram de uma a quatro semanas.
 
-	Framework ágil para o desenvolvimento, adequado em projetos que mudam constantemente, é baseado na progressão através de sprints que duram de uma a quatro semanas.
-O PO (Product owner) é responsável por garantir que todas as funcionalidades sejam entregues na ordem do maior valor possível para o cliente.
-Time de desenvolvimento é toda a equipe responsável pela concepção e sustentação do produto.
+
+- O PO (Product owner) é responsável por garantir que todas as funcionalidades sejam entregues na ordem do maior valor possível para o cliente.
+
+- Time de desenvolvimento é toda a equipe responsável pela concepção e sustentação do produto.
 
 - Scrum Master é responsável por guiar todo o time no uso do Scrum mostrando as boas práticas e blindando o time de interferências externas.
 

@@ -24,6 +24,7 @@ function App() {
     <div className="format"><h2>{helloWorld.toLowerCase()}</h2><p> Data: {data}</p></div>
     <div className="format"><h2>{helloWorld.split('').reverse().join('')}</h2><p> Data: {data}</p></div>
     <div className="format"><h2>{helloWorldEmbaralhado("Hello World!")}</h2><p> Data: {data}</p></div>
+    <div className="format"><h2>{helloWorldEmbaralhado(helloWorld.split('').reverse().join(''))}</h2><p> Data: {data}</p></div>
     </>
   );
 }

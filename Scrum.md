@@ -1,5 +1,4 @@
 ## Cerimônias do Scrum
----
 
 ---
 ### Backlog preparation

@@ -11,5 +11,8 @@ root.render(
     <h2>
       {helloWorld.toLowerCase()}
     </h2>
+    <h2>
+      {helloWorld.toUpperCase()}
+    </h2>
   </React.Fragment>
 );

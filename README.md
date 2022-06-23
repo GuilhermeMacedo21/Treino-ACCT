@@ -154,3 +154,49 @@ Comandos:
 ### CSS FlexBox
 ---
 Organizador de conteúdo na página de forma horizontal ou vertical, assim facilita ao desenvolvedor adicionar o local onde exatamente cada elemento ficará na página, a sua diferença com o GRID é que o grid controla de forma bidimensional, já o flexbox seria apenas na horizontal ou vertical.
+
+---
+### React
+---
+
+É uma biblioteca JavaScript onde o foco principal seria a criação de interfaces para páginas web, para isso é muito utilizado a questão da construção de componentes.
+
+---
+### Scrum
+---
+
+	Framework ágil para o desenvolvimento, adequado em projetos que mudam constantemente, é baseado na progressão através de sprints que duram de uma a quatro semanas.
+O PO (Product owner) é responsável por garantir que todas as funcionalidades sejam entregues na ordem do maior valor possível para o cliente.
+Time de desenvolvimento é toda a equipe responsável pela concepção e sustentação do produto.
+
+- Scrum Master é responsável por guiar todo o time no uso do Scrum mostrando as boas práticas e blindando o time de interferências externas.
+
+- Eventos são essenciais para que o Scrum funcione favorecendo a constância do time em relação as entregas
+
+- Sprint é o período em que o time se dedica para entregas algo de valor ao cliente, como uma nova funcionalidade em seu site.(Maior evento)
+
+- Sprint planning é a reunião do time para definir o que será realizado nessa sprint, estando disposto a se adaptar a qualquer imprevisto e focado na entrega de valor ao cliente.
+
+- Daily é uma conversa objetiva diária que deve ser realizada pelo time informando brevemente o que realizou desde a última daily e o que pretendem realizar hoje, assim o time conversa sobre os problemas e os próximos passos que devem ser realizados.
+
+- Sprint review é o momento em que após uma sprint é disponibilizada para os stakeholder a fim de coletar o feedback e discutir os próximos passos de possíveis melhorias e ajustes.
+
+- Retrospectiva da Sprint seria a reunião do time para analisar uma sprint encerrada, assim tratando os problemas que ocorreram e ajustando para trazer soluções as próximas sprints.
+
+---
+### NPM
+---
+
+É um gerenciador de pacotes e dependências de JavaScript, servem de certa forma para controlar tudo o que está instalado como bibliotecas e ter esse processo de controle muito mais fácil em um ambiente de desenvolvimento.
+
+---
+### Yarn
+---
+
+Possui a mesma proposta do NPM, porém surgiu de certa forma para facilitar a corrigir os problemas que estavam ocorrendo, atualmente o NPM evoluiu de forma a estar bem próximo do Yarn, ou seja, a escolha de qual utilizar depende apenas de você em seu projeto.
+
+---
+### Gulp e Grunt
+---
+
+Servem para automatizar tarefas e rotinas, como mimificar css,js ou html, realizar testes, conversões, entre outras questões, assim melhorando muito a performance do sistema e facilitando o desenvolvimento, a escolha de qual utilizar também depende do usuário.

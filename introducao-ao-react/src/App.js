@@ -14,6 +14,7 @@ function App() {
     <div className="format" id="world7"><h2>Hello World!</h2><button onClick={alteraFundo}>Alterar</button><p> Data: {data}</p></div>
     <div className="format"><h2>{alteraLetras(helloWorld)}</h2><p> Data: {data}</p></div>
     <div className="format"><h2>{alteraLetras(helloWorld.split('').reverse().join(''))}</h2><p> Data: {data}</p></div>
+    <div className="format flex" id="world10"><h2>Hello World!</h2><button onClick={alteraPosicao}>Alterar</button><p> Data: {data}</p></div>
     </>
   );
 }
@@ -36,9 +37,14 @@ function alteraFundo(){
     elem.classList.toggle("fundo");
   }  
 }
+function alteraPosicao(){
+  let elem = document.getElementById("world10")
+  if(elem){
+    elem.classList.toggle("flexReverse");
+  } 
+}
 function alteraLetras(string){
   let separado = string.split('');
-  console.log(separado)
   let cont = 0;
   while(cont<12){
     if(separado[cont] === 'e') {

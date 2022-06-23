@@ -11,6 +11,19 @@ body{
 .fundo{
   background-color: rgb(84, 55, 111);
 }
+.flex{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+.flexReverse{
+  display:flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+button{
+  max-width: 200px;
+}
 
 .App-logo {
   height: 40vmin;

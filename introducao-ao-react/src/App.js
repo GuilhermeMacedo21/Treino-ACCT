@@ -9,6 +9,7 @@ function App() {
     <h2>{helloWorld}</h2>
     <h2>{helloWorld.toUpperCase()}</h2>
     <h2>{helloWorld.toLowerCase()}</h2>
+    <h2>{helloWorld.split('').reverse()}</h2>
     </>
   );
 }

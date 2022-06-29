@@ -202,3 +202,23 @@ Possui a mesma proposta do NPM, porém surgiu de certa forma para facilitar a co
 ---
 
 Servem para automatizar tarefas e rotinas, como mimificar css,js ou html, realizar testes, conversões, entre outras questões, assim melhorando muito a performance do sistema e facilitando o desenvolvimento, a escolha de qual utilizar também depende do usuário.
+
+---
+### Onboarding VTEX
+---
+
+Catálogo – É onde será possível configurar toda a loja em si, com seus produtos, categorias, marcas, além da importação e exportação.
+
+Preços – Local onde será configurado os preços dos SKU, podendo utilizar diferentes regras e tipos de estratégias de precificação.
+
+Promoções e taxas – Pode ser aplicado taxas a determinados produtos e também promoções pré configuradas com datas específicas e para os produtos que deseja, também pode ser geral a todos os produtos.
+
+Configurações da conta – Local de configuração da conta em si, pode adicionar usuários, alterar permissões e ver as informações gerais da conta.
+
+Pedidos – Seria o local de controle de todos os pedidos realizados, além de conseguir ter um fluxo de controle, também poderá realizar alterações e consultar exatamente o que foi solicitado pelo cliente.
+
+Pagamentos– Local de controle das formas de pagamento, além de conseguir realizar as integrações e liberações com as plataformas de pagamento que deseja.
+
+MarketPlace – Local onde é possível configurar um MarketPlace, assim recebendo produtos através de uma integração ou podendo enviar também, facilitando o trabalho de controle de estoque e de administração de produtos que estão em outros sistemas.
+
+Configurações da loja – Local para configuração do design da loja, políticas comerciais, estilos e toda a edição do site em si.
